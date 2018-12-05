@@ -64,4 +64,7 @@ git push origin master
 
 # Ref:-
 http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history
+https://dev.to/blakedeboer/beginners-guide-to-interactive-rebasing-1ob
+https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/8-interactive-rebasing.html
 
