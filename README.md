@@ -60,3 +60,8 @@ git checkout master
 git merge branchName
 
 git push origin master
+
+
+# Ref:-
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
